@@ -1,4 +1,4 @@
-def add(a,b):
+def sub(a,b):
     answer =  a-b
     return (answer)
 
