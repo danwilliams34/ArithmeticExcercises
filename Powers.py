@@ -1,6 +1,6 @@
-def add(a,b):
-    answer = a+b
+def pow(a, b):
+    answer = a**b
     return (answer)
 
-print (add(4,12))
+print (pow(4,2))
 #expected outcome is 16#
