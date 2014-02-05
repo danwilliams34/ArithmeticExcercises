@@ -1,6 +1,6 @@
-def add(a,b):
-    answer =  a+b
+def mult(a,b):
+    answer =  a*b
     return (answer)
 
-print (add(4,12))
-#expected outcome is 16#
+print (mult(2,5))
+#expected outcome is 10#
