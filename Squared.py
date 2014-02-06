@@ -1,4 +1,4 @@
-def square(a,a):
+def square(a):
     answer =  a*a
     return (answer)
 
