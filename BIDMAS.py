@@ -1,5 +1,6 @@
-def multiply(a,b):
-    answer =  a*b
+def multiply(a):
+    answer =  a*3+4
     return (answer)
-print (multiply(5, 3)
+
+print (multiply(5))
 #expected outcome is 19#
