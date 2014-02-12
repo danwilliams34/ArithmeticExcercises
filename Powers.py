@@ -1,4 +1,4 @@
-def pow(a, b):
+def power(a, b):
     answer = a**b
     return (answer)
 
