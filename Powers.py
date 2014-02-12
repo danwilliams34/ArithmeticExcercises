@@ -2,5 +2,5 @@ def power(a, b):
     answer = a**b
     return (answer)
 
-print (pow(4,2))
+print (power(4,2))
 #expected outcome is 16#
