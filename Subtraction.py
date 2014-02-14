@@ -3,4 +3,4 @@ def sub(a,b):
     return (answer)
 
 print (sub(4,12))
-#expected outcome is 8#
+#expected outcome is -8#
